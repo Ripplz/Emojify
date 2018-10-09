@@ -6,12 +6,11 @@ INJECTED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src
 INJECTED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml:17:1-52:12
 MERGED from [com.android.support:design:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4c37a524df406fa73da71d1a8cb13e10/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/667405572c1659773005ff92211bc001/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.0.aar/095d49d91c129e609919619386ffb417/AndroidManifest.xml:2:1-5:12
-MERGED from [com.jakewharton:butterknife:8.4.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/b82e218dd7f6276c002f523a879da27c/AndroidManifest.xml:2:1-7:12
-MERGED from [com.jakewharton.timber:timber:4.5.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/timber-4.5.0.aar/e230ca13bb7ec51054d2f10f44486f43/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/5b7b279f0089c6ac2f18f35d3d4af853/AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.0.aar/7a6033aa9f3b362ea09c0ba8128f17e8/AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/4ab6f30d99042dce7053ee4387a5fb56/AndroidManifest.xml:16:1-23:12
+MERGED from [com.google.android.gms:play-services-vision:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.6.2.aar/053f048644c93e866fe2dd16114ff224/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.6.2.aar/87d74096957f14b15215c7084b8c9d01/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/bc66a38c18f96f91fa9bead08a3cb531/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/47ad24212f25760b7da31d42d4d06064/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/7ce6b9c828469d523b597de37f3dbf0c/AndroidManifest.xml:16:1-23:12
 MERGED from [com.android.support:support-v4:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c65cf9866dd002c275db9965563f2b3b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a2a31df7333c1d80e339fdc78faf2cc4/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/cef0d51daa39b7d6d1eac814f896881c/AndroidManifest.xml:17:1-22:12
@@ -22,10 +21,15 @@ MERGED from [com.android.support:support-core-utils:27.1.1] /home/ripplz/.gradle
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1132ca1fb700af4d6da6038a0c49f167/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c02193c713ecaf6e2bc63eaac1bf144f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fc3e9f9f3052219710d66bf818a1e95d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.6.2.aar/402f9e60338e1ecb02c38bcb1721de1c/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/89238e069dad2450e57d1b953cd987b6/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/834141bbef507445c240a4be441425e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/f727a79a9d41c1055a3d0483f36e19f9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/177d026a01dba8b62544a019ee2b60bc/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.6.2.aar/9a63a56d0d2600ef6300df8035d22568/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1943ef2450e30ee8182117e724c7b91b/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/82b979a6907cba161d4dcba03b1480ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/a2a25709ca8f251a5b9817ea0b7a9ede/AndroidManifest.xml:2:1-6:12
 INJECTED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml:17:1-52:12
 INJECTED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml:17:1-52:12
 INJECTED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml:17:1-52:12
@@ -55,16 +59,26 @@ ADDED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/ma
 		ADDED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml:24:22-78
 application
 ADDED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml:26:5-50:19
-MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.0.aar/095d49d91c129e609919619386ffb417/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.0.aar/095d49d91c129e609919619386ffb417/AndroidManifest.xml:4:5-19
-MERGED from [com.jakewharton.timber:timber:4.5.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/timber-4.5.0.aar/e230ca13bb7ec51054d2f10f44486f43/AndroidManifest.xml:8:5-20
-MERGED from [com.jakewharton.timber:timber:4.5.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/timber-4.5.0.aar/e230ca13bb7ec51054d2f10f44486f43/AndroidManifest.xml:8:5-20
-MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/5b7b279f0089c6ac2f18f35d3d4af853/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/5b7b279f0089c6ac2f18f35d3d4af853/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.0.aar/7a6033aa9f3b362ea09c0ba8128f17e8/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.0.aar/7a6033aa9f3b362ea09c0ba8128f17e8/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/4ab6f30d99042dce7053ee4387a5fb56/AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/4ab6f30d99042dce7053ee4387a5fb56/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-vision:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.6.2.aar/053f048644c93e866fe2dd16114ff224/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.6.2.aar/053f048644c93e866fe2dd16114ff224/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.6.2.aar/87d74096957f14b15215c7084b8c9d01/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.6.2.aar/87d74096957f14b15215c7084b8c9d01/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/bc66a38c18f96f91fa9bead08a3cb531/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/bc66a38c18f96f91fa9bead08a3cb531/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/47ad24212f25760b7da31d42d4d06064/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/47ad24212f25760b7da31d42d4d06064/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/7ce6b9c828469d523b597de37f3dbf0c/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/7ce6b9c828469d523b597de37f3dbf0c/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-vision-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.6.2.aar/402f9e60338e1ecb02c38bcb1721de1c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.6.2.aar/402f9e60338e1ecb02c38bcb1721de1c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/f727a79a9d41c1055a3d0483f36e19f9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/f727a79a9d41c1055a3d0483f36e19f9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/177d026a01dba8b62544a019ee2b60bc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/177d026a01dba8b62544a019ee2b60bc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.6.2.aar/9a63a56d0d2600ef6300df8035d22568/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.6.2.aar/9a63a56d0d2600ef6300df8035d22568/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/a2a25709ca8f251a5b9817ea0b7a9ede/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/a2a25709ca8f251a5b9817ea0b7a9ede/AndroidManifest.xml:5:5-20
 	android:supportsRtl
 		ADDED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml:30:9-35
 	android:label
@@ -115,18 +129,16 @@ MERGED from [com.android.support:design:27.1.1] /home/ripplz/.gradle/caches/tran
 MERGED from [com.android.support:design:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4c37a524df406fa73da71d1a8cb13e10/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/667405572c1659773005ff92211bc001/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/667405572c1659773005ff92211bc001/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.0.aar/095d49d91c129e609919619386ffb417/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.0.aar/095d49d91c129e609919619386ffb417/AndroidManifest.xml:3:5-43
-MERGED from [com.jakewharton:butterknife:8.4.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/b82e218dd7f6276c002f523a879da27c/AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.4.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/b82e218dd7f6276c002f523a879da27c/AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton.timber:timber:4.5.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/timber-4.5.0.aar/e230ca13bb7ec51054d2f10f44486f43/AndroidManifest.xml:6:5-43
-MERGED from [com.jakewharton.timber:timber:4.5.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/timber-4.5.0.aar/e230ca13bb7ec51054d2f10f44486f43/AndroidManifest.xml:6:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/5b7b279f0089c6ac2f18f35d3d4af853/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/5b7b279f0089c6ac2f18f35d3d4af853/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.0.aar/7a6033aa9f3b362ea09c0ba8128f17e8/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.0.aar/7a6033aa9f3b362ea09c0ba8128f17e8/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/4ab6f30d99042dce7053ee4387a5fb56/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/4ab6f30d99042dce7053ee4387a5fb56/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.6.2.aar/053f048644c93e866fe2dd16114ff224/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.6.2.aar/053f048644c93e866fe2dd16114ff224/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.6.2.aar/87d74096957f14b15215c7084b8c9d01/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.6.2.aar/87d74096957f14b15215c7084b8c9d01/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/bc66a38c18f96f91fa9bead08a3cb531/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/bc66a38c18f96f91fa9bead08a3cb531/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/47ad24212f25760b7da31d42d4d06064/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/47ad24212f25760b7da31d42d4d06064/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/7ce6b9c828469d523b597de37f3dbf0c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/7ce6b9c828469d523b597de37f3dbf0c/AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:support-v4:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c65cf9866dd002c275db9965563f2b3b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c65cf9866dd002c275db9965563f2b3b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a2a31df7333c1d80e339fdc78faf2cc4/AndroidManifest.xml:20:5-44
@@ -147,14 +159,24 @@ MERGED from [com.android.support:support-media-compat:27.1.1] /home/ripplz/.grad
 MERGED from [com.android.support:support-media-compat:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c02193c713ecaf6e2bc63eaac1bf144f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fc3e9f9f3052219710d66bf818a1e95d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /home/ripplz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fc3e9f9f3052219710d66bf818a1e95d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.6.2.aar/402f9e60338e1ecb02c38bcb1721de1c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.6.2.aar/402f9e60338e1ecb02c38bcb1721de1c/AndroidManifest.xml:4:5-43
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/89238e069dad2450e57d1b953cd987b6/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/89238e069dad2450e57d1b953cd987b6/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/834141bbef507445c240a4be441425e1/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/834141bbef507445c240a4be441425e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/f727a79a9d41c1055a3d0483f36e19f9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/f727a79a9d41c1055a3d0483f36e19f9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/177d026a01dba8b62544a019ee2b60bc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/177d026a01dba8b62544a019ee2b60bc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.6.2.aar/9a63a56d0d2600ef6300df8035d22568/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.6.2.aar/9a63a56d0d2600ef6300df8035d22568/AndroidManifest.xml:4:5-43
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1943ef2450e30ee8182117e724c7b91b/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1943ef2450e30ee8182117e724c7b91b/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/82b979a6907cba161d4dcba03b1480ac/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/82b979a6907cba161d4dcba03b1480ac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/a2a25709ca8f251a5b9817ea0b7a9ede/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/a2a25709ca8f251a5b9817ea0b7a9ede/AndroidManifest.xml:4:5-43
 INJECTED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml
 INJECTED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -166,16 +188,16 @@ INJECTED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src
 		ADDED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/src/main/AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/5b7b279f0089c6ac2f18f35d3d4af853/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/bc66a38c18f96f91fa9bead08a3cb531/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/5b7b279f0089c6ac2f18f35d3d4af853/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/bc66a38c18f96f91fa9bead08a3cb531/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/5b7b279f0089c6ac2f18f35d3d4af853/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/bc66a38c18f96f91fa9bead08a3cb531/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/5b7b279f0089c6ac2f18f35d3d4af853/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/bc66a38c18f96f91fa9bead08a3cb531/AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/4ab6f30d99042dce7053ee4387a5fb56/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/7ce6b9c828469d523b597de37f3dbf0c/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/4ab6f30d99042dce7053ee4387a5fb56/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/7ce6b9c828469d523b597de37f3dbf0c/AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/4ab6f30d99042dce7053ee4387a5fb56/AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] /home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/7ce6b9c828469d523b597de37f3dbf0c/AndroidManifest.xml:20:20-65

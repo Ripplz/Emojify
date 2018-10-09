@@ -4,24 +4,7 @@
             "outputFile": "/home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "/home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/4ab6f30d99042dce7053ee4387a5fb56/res/values-fr-rCA/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "289",
-                        "endColumns": "219",
-                        "endOffsets": "508"
-                    },
-                    "to": {
-                        "startLines": "26",
-                        "startColumns": "4",
-                        "startOffsets": "3007",
-                        "endColumns": "219",
-                        "endOffsets": "3222"
-                    }
-                },
-                {
-                    "source": "/home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/5b7b279f0089c6ac2f18f35d3d4af853/res/values-fr-rCA/values.xml",
+                    "source": "/home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/bc66a38c18f96f91fa9bead08a3cb531/res/values-fr-rCA/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,6 +35,23 @@
                         "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,4687",
                         "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
                         "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,4768"
+                    }
+                },
+                {
+                    "source": "/home/ripplz/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/7ce6b9c828469d523b597de37f3dbf0c/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "219",
+                        "endOffsets": "508"
+                    },
+                    "to": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "3007",
+                        "endColumns": "219",
+                        "endOffsets": "3222"
                     }
                 },
                 {
