@@ -1,0 +1,4 @@
+#Tue Oct 09 19:59:00 WAT 2018
+base.0=/home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
