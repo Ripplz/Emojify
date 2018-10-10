@@ -5,24 +5,24 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
-    ir-eligibility="METHOD_ADDED"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.1.4"
-    timestamp="1539125599371"
+    timestamp="1539131422738"
     token="8019081209933995750"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="537" />
+        duration="737" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="55" />
+        duration="49" />
     <task
         name="verifier"
-        duration="63" />
+        duration="43" />
 
     <artifact
         location="/home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -101,8 +101,8 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="METHOD_ADDED"
-        timestamp="1539125599371"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1539131422738"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/ripplz/AndroidStudioProjects/AdvancedAndroid_Emojify/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
